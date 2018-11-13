@@ -33,7 +33,7 @@
 
     <Button
         android:id="@+id/button_location"
-        android:layout_width="123dp"
+        android:layout_width="202dp"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
